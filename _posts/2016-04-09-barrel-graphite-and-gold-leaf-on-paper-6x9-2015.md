@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Barrel, graphite and gold leaf on paper, 6x9" 2015'
-datePublished: '2016-04-09T19:10:46.808Z'
-dateModified: '2016-04-09T19:03:14.704Z'
+datePublished: '2016-04-09T19:20:16.107Z'
+dateModified: '2016-04-09T19:10:54.109Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-barrel-graphite-and-gold-leaf-on-paper-6x9-2015.md
