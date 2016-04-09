@@ -1,6 +1,6 @@
-name: AshaGanpat
+name: Asha Ganpat
 favicon: null
-layout_spectrum: 0.5476680579595268
+layout_spectrum: 1
 typography_spectrum: 0.87939
 title: Start
 cta:
@@ -22,7 +22,7 @@ color:
     - '#aca9a4'
     - '#133b6f'
     - '#502e14'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0
   saturation: 0.125
   rhythmicContrast: 1
