@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Campfire, graphite and gold leaf on paper, 6x9" 2015'
-datePublished: '2016-04-09T19:31:35.232Z'
-dateModified: '2016-04-09T19:31:21.932Z'
+datePublished: '2016-04-09T19:45:11.520Z'
+dateModified: '2016-04-09T19:43:41.059Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-campfire-graphite-and-gold-leaf-on-paper-6x9-2015.md
